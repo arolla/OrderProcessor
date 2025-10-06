@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessor", "OrderProcessor\OrderProcessor.csproj", "{6937F9AA-F43A-46C0-B9DA-BD2C32A25D82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6937F9AA-F43A-46C0-B9DA-BD2C32A25D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6937F9AA-F43A-46C0-B9DA-BD2C32A25D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6937F9AA-F43A-46C0-B9DA-BD2C32A25D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6937F9AA-F43A-46C0-B9DA-BD2C32A25D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501A3B3D-BF31-45D4-AD31-D689C1F1E3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501A3B3D-BF31-45D4-AD31-D689C1F1E3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501A3B3D-BF31-45D4-AD31-D689C1F1E3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501A3B3D-BF31-45D4-AD31-D689C1F1E3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
