@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace OrderProcessor
 {
-    public class OrderProcessor
+    public class OrderProcessor 
     {
         public void ProcessOrder(string customerId, List<string> items, string paymentType, string shippingType)
         {
